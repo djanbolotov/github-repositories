@@ -1,3 +1,7 @@
+# Link to the github pages
+
+You can visit site of this repository in gh-pages [https://djanbolotov16.github.io/github-repositories/]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
